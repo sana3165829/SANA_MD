@@ -1,7 +1,7 @@
 ---------
 
 ### <br>  ❖ SANA_MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY TOHID KHAN`** 🔰
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SANA KHAN`** 🔰
 
 ----------
 
@@ -10,12 +10,12 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`TOHID+_+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SANA+_+MD+WHATSAPP+BOT`" alt="">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TOHID%20KHAN%20KING%20OF%20KINGS%20OWNER%20TOHID%20KHAN%20AND%20SAHIB%20KHAN♥️&image=https://i.imgur.com/nqCsIHZ.jpeg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SANA%20_%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SANA%20KHAN%20KING%20OF%20KINGS%20OWNER%20TOHID%20KHAN%20AND%20SAHIB%20KHAN♥️&image=https://i.imgur.com/nqCsIHZ.jpeg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
