@@ -22,7 +22,7 @@ const vv2 = async (m, Gifted) => {
     const type = Object.keys(msg)[0];
     
     const originalCaption = msg[type].caption || '';
-    const newCaption = `${originalCaption}\n\n> Ethix-MD-V2 © 2025*`;
+    const newCaption = `${originalCaption}\n\n> SANA_MD-V2 © 2025*`;
 
 
     // Download the media content
