@@ -9,7 +9,7 @@ const vv2 = async (m, Gifted) => {
     const prefix = prefixMatch ? prefixMatch[0] : '/';
     const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
 
-    const validCommands = ['rvo2', 'vv2', 'reveal2', 'antiviewonce2', 'viewonce2'];
+    const validCommands = ['vv', 'vv2', 'reveal2', 'antiviewonce2', 'viewonce2'];
     if (!validCommands.includes(cmd)) return;
 
     // Check if the quoted message is a view-once message
