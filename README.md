@@ -133,7 +133,7 @@ src="https://cardivo.vercel.app/api?name=SANA%20_%20MD%20V2&description=🥂THE%
 ----------
 
 <p align="center">
-<a href="https://tohid-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href="https://sana-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 ----------
@@ -141,7 +141,7 @@ src="https://cardivo.vercel.app/api?name=SANA%20_%20MD%20V2&description=🥂THE%
 ----------
 
 <p align="center">
-<a href="https://tohid-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
+<a href="https://sana-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 ----------
