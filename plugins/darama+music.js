@@ -29,7 +29,7 @@ let desc = `
 
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *TOHID_MD WHATSAPP BOT* 
+> *SANA_MD WHATSAPP BOT* 
 
 > *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀɴᴀ ᴋʜᴀɴ* 
 `
@@ -82,7 +82,7 @@ let desc = `
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *TOHID_MD WHATSAPP BOT* 
+> *SANA_MD WHATSAPP BOT* 
 
 > *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀɴᴀ ᴋʜᴀɴ*
 `
