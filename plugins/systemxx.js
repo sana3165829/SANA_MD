@@ -13,7 +13,7 @@ const getRandomImage = () => {
 };
 
 cmd({
-    pattern: "system",
+    pattern: "cpu",
     react: "🔧",
     alias: ["uptime", "status", "runtime"],
     desc: "Check bot system status and uptime",
