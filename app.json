@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "mRJWlRJB#2NDo_gyEjZzvXHnj5u8KWzBGqb4XumFWwI6jEIlXrQ4"
     },  
     
     "ALIVE_IMG": {
@@ -40,25 +40,25 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
@@ -76,13 +76,13 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "OWNER_REACT": {
